@@ -2,6 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome%20to-nl-Woonho's%20Github&fontSize=90&fontAlignY=20">
 </div>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=98Woonho&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 <h3 align="center">🔧 Tech Stack 🔧</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white" /> &nbsp
@@ -39,7 +41,6 @@
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="mailto:9woonho8@gmail.com">
-    <img
-      src="https://img.shields.io/badge/oka1313@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/oka1313@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
