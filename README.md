@@ -2,7 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome%20to-nl-Woonho's%20Github&fontSize=90&fontAlignY=20">
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=98Woonho&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=98Woonho&theme=tokyonight" />
+</div>
 
 <h3 align="center">🔧 Tech Stack 🔧</h3>
 <div align="center">
