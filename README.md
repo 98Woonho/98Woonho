@@ -43,7 +43,7 @@
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-  <a href="mailto:9woonho8@gmail.com">
-    <img src="https://img.shields.io/badge/9woonho8@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+  <a href="mailto:lkj1150@gmail.com">
+    <img src="https://img.shields.io/badge/lkj1150@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
